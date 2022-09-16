@@ -27,3 +27,6 @@ let num1 = 12345, num2 = 642243, sum = num1 + num2;
 console.log(합계);
 console.log(sum);
 console.log(sum + 합계);
+
+
+//상수란 contant number : 변하지 않는값
